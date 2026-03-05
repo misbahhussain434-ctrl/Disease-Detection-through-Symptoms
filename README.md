@@ -7,15 +7,11 @@ This project leverages **Artificial Intelligence (AI)** and **Machine Learning (
 
 > Goal: **Provide faster, accurate, and automated disease detection** to improve patient care.
 
----
-
 ## 🎯 Objectives
 - <span style="color: #117a65;">Early detection of diseases</span>  
 - <span style="color: #9b59b6;">Support healthcare professionals in diagnosis</span>  
 - <span style="color: #e67e22;">Provide a simple, user-friendly interface for inputting data</span>  
 - <span style="color: #c0392b;">Use AI and ML models to improve accuracy over time</span>  
-
----
 
 ## ⚙️ Technologies Used
 | Technology       | Purpose |
@@ -26,7 +22,6 @@ This project leverages **Artificial Intelligence (AI)** and **Machine Learning (
 | OpenCV / PIL     | Medical image processing (optional) |
 | GitHub           | Version control and project hosting |
 
----
 
 ## 🏗 Project Structure
 
@@ -39,3 +34,7 @@ Disease-Detection-System/
 ├── README.md             # Project documentation
 ├── dataset/              # Training and test data
 └── utils/                # Utility functions (data processing, visualization)
+
+
+
+Misbah Hussain
