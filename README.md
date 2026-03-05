@@ -19,7 +19,6 @@ This project leverages **Artificial Intelligence (AI)** and **Machine Learning (
 | Python           | Backend development |
 | Scikit-learn / TensorFlow / PyTorch | Machine Learning & AI models |
 | Gradio / Streamlit | User interface for interactive inputs |
-| OpenCV / PIL     | Medical image processing (optional) |
 | GitHub           | Version control and project hosting |
 
 
